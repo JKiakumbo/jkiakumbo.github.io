@@ -1,5 +1,5 @@
 ---
-title: Understanding Software Architecture
+title: "Understanding Software Architecture: The Blueprint of Digital Solutions"
 date: 2025-02-17 23:00:00 +1000
 categories: [Software Architecture]
 tags: [Software Architecture]     # TAG names should always be lowercase
